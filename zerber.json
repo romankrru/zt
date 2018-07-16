@@ -1,0 +1,8 @@
+{
+    "test": {
+      "command": "test",
+      "isPartial": true,
+      "fileRegexp": "\\.js$",
+      "title": "JS tests"
+    }
+  }
